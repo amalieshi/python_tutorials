@@ -1,2 +1,2 @@
 # python_tutorials
-Jupyter-styled python tutorial
+Jupyter-styled python tutorials
